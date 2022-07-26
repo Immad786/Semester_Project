@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This management system is actually the Semester Project of Visual Studio..
+
 Attendance Management keeps track of your employee or students present/absent details. It is the system to document the time your employees/students work and the time they take off.
 
  In this digital era, face recognition system plays a vital role in  almost every  sector. Face recognition  is one  of the mostly used biometrics. It can used for security, authentication, identification.
@@ -265,8 +267,8 @@ The database setup has been already finished in the above section (Setup Managem
 - Analyze & manage attendance data
 
 #### Credentials
-- Username: **admin**
-- Username: **kuna123**
+- Username: **Madi**
+- Username: **Sufferingfrominsanity**
 
 #### Splash Screen
 
@@ -468,8 +470,6 @@ If we're trying to run this application with a second camera, we should change t
 Social Media Links
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
-* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
-* [Twitter Profile](https://twitter.com/gunarakulan)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+* [Facebook id](https://www.facebook.com/Immad.lodhi)
+* [Twitter Profile](https://twitter.com/immadlodhi)
+* [Instagram Profile](https://www.instagram.com/imadkhan/)
