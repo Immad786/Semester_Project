@@ -268,7 +268,7 @@ The database setup has been already finished in the above section (Setup Managem
 
 #### Credentials
 - Username: **Madi**
-- Username: **Sufferingfrominsanity**
+- Password: **Sufferingfrominsanity**
 
 #### Splash Screen
 
@@ -284,8 +284,8 @@ The splash screen is the loading screen of the management system.
 The login screen is the authentication section of the management system. Currently, this module has only admin account.
 
 ##### Credentials
-- Username: **admin**
-- Username: **kuna123**
+- Username: **Madi**
+- Password: **Sufferingfrominsanity**
 
 
 #### Dashboard
